@@ -43,9 +43,6 @@ Open the project folder.
 Run the index.html file in your browser.
 
 💡 Future Improvements
-
-Add categories (work, personal, shopping, etc.).
-
 Add due dates & reminders.
 
 Dark/Light mode toggle.
